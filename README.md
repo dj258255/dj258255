@@ -10,7 +10,7 @@
 
 ### Architecture & Infrastructure
 ---
-**Microservices Architecture**  
+**Architecture**  
 - Load balancing with Nginx
 - Multi-instance Spring Boot applications
 - Container orchestration with Docker Compose
