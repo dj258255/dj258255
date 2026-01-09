@@ -58,15 +58,3 @@
   ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-
-  ---
-  이렇게 렌더링됩니다:
-
-  Tech Stack
-
-  Language
-
-  https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white
-  https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black
-  https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white
-  https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white
