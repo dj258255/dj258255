@@ -1,6 +1,6 @@
 # Hello
 
-**I'm Beomsu, a backend developer who handles incidents with resilience.**
+Hello, I'm a backend engineer
 
 ---
 
