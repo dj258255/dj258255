@@ -14,10 +14,10 @@ Building reliable server-side applications with Java & Spring ecosystem.
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Blog-f0f6fc?style=flat-square&logo=github&logoColor=white" />
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=github&logoColor=white" />
-  <img alt="Blog" src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=github&logoColor=white" />
-</picture>
-
-[IT-Oasis](https://dj258255.github.io/IT-Oasis/)
+<a href="https://dj258255.github.io/IT-Oasis/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Blog-30363d?style=flat-square&logo=github&logoColor=c9d1d9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=github&logoColor=white" />
+    <img alt="Blog" src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=github&logoColor=white" />
+  </picture>
+</a>
